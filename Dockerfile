@@ -1,12 +1,15 @@
-# Tags: latest, 1.17.0-debian-10-r39, 1.17.0, 1-debian-10, 1
+# Tags: latest, 1.17.0-debian-10-r40, 1.17.0, 1-debian-10, 1
 FROM bitnami/pgbouncer:latest
-FROM bitnami/pgbouncer:1.17.0-debian-10-r39
+FROM bitnami/pgbouncer:1.17.0-debian-10-r40
 FROM bitnami/pgbouncer:1.17.0
 FROM bitnami/pgbouncer:1-debian-10
 FROM bitnami/pgbouncer:1
 
 # Tags: _
 FROM bitnami/pgbouncer:_
+
+# Tags: 1.17.0-debian-10-r39
+FROM bitnami/pgbouncer:1.17.0-debian-10-r39
 
 # Tags: 1.17.0-debian-10-r38
 FROM bitnami/pgbouncer:1.17.0-debian-10-r38
