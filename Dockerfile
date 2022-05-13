@@ -1,12 +1,42 @@
-# Tags: latest, 1.17.0-debian-10-r40, 1.17.0, 1-debian-10, 1
+# Tags: latest, 1.17.0-debian-10-r50, 1.17.0, 1-debian-10, 1
 FROM bitnami/pgbouncer:latest
-FROM bitnami/pgbouncer:1.17.0-debian-10-r40
+FROM bitnami/pgbouncer:1.17.0-debian-10-r50
 FROM bitnami/pgbouncer:1.17.0
 FROM bitnami/pgbouncer:1-debian-10
 FROM bitnami/pgbouncer:1
 
 # Tags: _
 FROM bitnami/pgbouncer:_
+
+# Tags: 1.17.0-debian-10-r49
+FROM bitnami/pgbouncer:1.17.0-debian-10-r49
+
+# Tags: 1.17.0-debian-10-r48
+FROM bitnami/pgbouncer:1.17.0-debian-10-r48
+
+# Tags: 1.17.0-debian-10-r47
+FROM bitnami/pgbouncer:1.17.0-debian-10-r47
+
+# Tags: 1.17.0-debian-10-r46
+FROM bitnami/pgbouncer:1.17.0-debian-10-r46
+
+# Tags: 1.17.0-debian-10-r45
+FROM bitnami/pgbouncer:1.17.0-debian-10-r45
+
+# Tags: 1.17.0-debian-10-r44
+FROM bitnami/pgbouncer:1.17.0-debian-10-r44
+
+# Tags: 1.17.0-debian-10-r43
+FROM bitnami/pgbouncer:1.17.0-debian-10-r43
+
+# Tags: 1.17.0-debian-10-r42
+FROM bitnami/pgbouncer:1.17.0-debian-10-r42
+
+# Tags: 1.17.0-debian-10-r41
+FROM bitnami/pgbouncer:1.17.0-debian-10-r41
+
+# Tags: 1.17.0-debian-10-r40
+FROM bitnami/pgbouncer:1.17.0-debian-10-r40
 
 # Tags: 1.17.0-debian-10-r39
 FROM bitnami/pgbouncer:1.17.0-debian-10-r39
@@ -64,33 +94,3 @@ FROM bitnami/pgbouncer:1.17.0-debian-10-r22
 
 # Tags: 1.17.0-debian-10-r21
 FROM bitnami/pgbouncer:1.17.0-debian-10-r21
-
-# Tags: 1.17.0-debian-10-r20
-FROM bitnami/pgbouncer:1.17.0-debian-10-r20
-
-# Tags: 1.17.0-debian-10-r19
-FROM bitnami/pgbouncer:1.17.0-debian-10-r19
-
-# Tags: 1.17.0-debian-10-r18
-FROM bitnami/pgbouncer:1.17.0-debian-10-r18
-
-# Tags: 1.17.0-debian-10-r17
-FROM bitnami/pgbouncer:1.17.0-debian-10-r17
-
-# Tags: 1.17.0-debian-10-r16
-FROM bitnami/pgbouncer:1.17.0-debian-10-r16
-
-# Tags: 1.17.0-debian-10-r15
-FROM bitnami/pgbouncer:1.17.0-debian-10-r15
-
-# Tags: 1.17.0-debian-10-r14
-FROM bitnami/pgbouncer:1.17.0-debian-10-r14
-
-# Tags: 1.17.0-debian-10-r13
-FROM bitnami/pgbouncer:1.17.0-debian-10-r13
-
-# Tags: 1.17.0-debian-10-r12
-FROM bitnami/pgbouncer:1.17.0-debian-10-r12
-
-# Tags: 1.17.0-debian-10-r11
-FROM bitnami/pgbouncer:1.17.0-debian-10-r11
